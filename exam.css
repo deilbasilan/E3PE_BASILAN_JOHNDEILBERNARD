@@ -1,0 +1,63 @@
+.container{
+	margin-top: 5%;
+	border-top-style: solid; 
+	border-right-style: solid;
+	border-left-style: solid;
+	border-width: 1px;
+	
+	
+	
+}
+
+.container h1{
+	color: magenta;
+	padding-top: 10%;
+	font-family: monggolian baiti;
+	font-size: 25px;
+}
+.container {
+	
+}
+
+
+#web{
+	color: #8B008B;
+	border-top-style: dotted;
+	border-width: 10px;
+
+}
+
+#web h6{
+	color: gray;
+	padding-top: 10%;
+}
+#contact h1{
+	color: black;
+	font-family: arial;
+	
+}
+
+.ow{
+	padding-top: 10px;
+	border-top: solid;
+	border-right: solid;
+	border-left: solid;
+	border-bottom: solid;
+	border-color: #8B008B;
+	border-width: 5px;
+}
+.ow ul{
+	font-family: arial;
+	font-size: 15px;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
+.ow t{
+	color: green;
+	
+}
+.ow u{
+	color: red;
+}
+
